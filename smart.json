@@ -1,0 +1,10 @@
+{
+  "name": "mypaginator",
+  "description": "A paginated subscription for a collection.",
+  "homepage": "https://github.com/johntday/meteor-mypaginator",
+  "author": "John T Day <johntday@gmail.com> (http://lucidservices.com)",
+  "version": "0.1.0",
+  "git": "https://github.com/johntday/meteor-mypaginator.git",
+  "packages": {
+  }
+}
